@@ -1,0 +1,10 @@
+
+// int duzina = 50, visina = 70;
+// visina je veca od duzine
+// visina > duzina
+
+// visina = 0.9 * 900;
+// 810 i 90
+
+// duzina = 50/70 * visina
+// 578 i 322
