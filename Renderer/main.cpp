@@ -134,7 +134,7 @@ int main(int argc, char *argv[]) {
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 0);
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
-    int width = 1000, height = 1000;
+    int width = 1400, height = 1000;
     float ratio = width / height * 1.0f;
     GLFWwindow* window = glfwCreateWindow(width, height, "Staklo Sekac", nullptr, nullptr);
     if (!window) {
